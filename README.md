@@ -1,6 +1,5 @@
 # hg-2-charlie
 
-# hg-2-charlie
 
 ## TEAM 2 ⭐
 
